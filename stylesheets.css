@@ -4,11 +4,13 @@ body{
 
 .leftSideBanner{
     width:20%;
+    height:500px;
     float:left; 
 }
 
 .rightSideBanner{
     width:20%;
+    height:500px;
     float: left;
 }
 
