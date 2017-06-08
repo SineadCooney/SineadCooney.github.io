@@ -41,3 +41,7 @@ body{
     font-size: 20px;
 }
 
+#logo{
+    width:25%;
+    float:left;
+}
