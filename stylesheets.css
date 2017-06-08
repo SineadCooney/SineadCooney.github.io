@@ -3,21 +3,21 @@ body{
 }
 
 .leftSideBanner{
-    width:20%;
+    width:15%;
     height:500px;
     float:left; 
 }
 
 .rightSideBanner{
-    width:20%;
+    width:15%;
     height:500px;
     float: left;
 }
 
 .middleBanner{
-    width:60%;
+    width:70%;
     float:left;
-    background-color: deeppink;
+    background-color: purple;
 }
 
 #topMainImage{
