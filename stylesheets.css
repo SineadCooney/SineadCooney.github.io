@@ -1,0 +1,16 @@
+.rightSideBanner{
+    width:20%;
+    float: right;
+    background-color: gray;
+}
+
+.middleBanner{
+    width:60%;
+    float:right;
+}
+
+.leftSideBanner{
+    width:20%;
+    float:right;
+    background-color: gray;
+}
