@@ -44,4 +44,5 @@ body{
 #logo{
     width:25%;
     float:left;
+    z-index: 2;
 }
