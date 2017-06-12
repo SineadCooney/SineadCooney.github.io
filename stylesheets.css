@@ -24,6 +24,7 @@ body{
     height: 100vh;
     float:left;
     background-color: #f9c48e;
+    opacity: 0.4;
 }
 
 #headerImage{
