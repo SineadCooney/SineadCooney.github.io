@@ -52,8 +52,8 @@ h2{
     text-align: center;
 }
 
-.row img{
+#gallery{
     height: 150px;
     float:left;
-    
+    width:100%;
 }
