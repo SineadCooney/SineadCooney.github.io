@@ -47,3 +47,7 @@ body{
     float:left;
     z-index: 2;
 }
+
+h2{
+    text-align: center;
+}
