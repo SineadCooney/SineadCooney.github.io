@@ -24,7 +24,6 @@ body{
     height: 100vh;
     float:left;
     background-color: #f9c48e;
-    opacity: 0.4;
 }
 
 #headerImage{
@@ -32,6 +31,7 @@ body{
     height:100vh;
     float:left;
     z-index: -1;
+    opacity: 0.4;
 }
 
 .container{
