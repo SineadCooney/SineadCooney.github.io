@@ -60,12 +60,14 @@ h2{
     height: 200px;
     float:left;
     width:100%;
-    border: 1px;
+    border: thin 1px;
     border-color: gray;
 }
  img{
      width:100%;
      height:auto;
      display:block;
-     background-color: gray;
+     background-color: #d6d6d6;
+     margin: 0px;
+     padding: 0px;
  }
