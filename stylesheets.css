@@ -21,7 +21,7 @@ body{
 
 #topMainImage{
     width:100%;
-    height: 100%;
+    height: 100vh;
     float:left;
     background-color: #f9c48e;
 }
@@ -67,7 +67,6 @@ h2{
      width:100%;
      height:auto;
      display:block;
-     background-color: #d6d6d6;
      margin: 0px;
      padding: 0px;
  }
