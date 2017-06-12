@@ -54,9 +54,9 @@ h2{
 
 #gallery{
     object-fit: cover;
-    height: 150px;
+    height: 170px;
     float:left;
     width:100%;
-    z-index: 2;
-
+    border: 1px;
+    border-color: gray;
 }
