@@ -53,7 +53,7 @@ body{
 #logoPosition{
     position: absolute;
     top: 35vh; 
-    left: 55vh;  
+    margin-left:45vh; 
 }
 
 #logo{
