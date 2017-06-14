@@ -58,13 +58,13 @@ body{
 }
 
 #graphics{
-    margin-top: 1vh;
+    margin-top: 10vh;
     text-align: center;
 }
 
 #gallery{
     object-fit: cover;
-    height: 3vh;
+    height: 30vh;
     float:left;
     width:100%;
     padding-top:10px;
