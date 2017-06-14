@@ -57,7 +57,7 @@ body{
     display:block;
 }
 
-h2{
+#graphics{
     text-align: center;
 }
 
@@ -66,8 +66,6 @@ h2{
     height: 300px;
     float:left;
     width:100%;
-    border:1px solid #ccc;
-    border-color: gray;
 }
  img{
      width:100%;
