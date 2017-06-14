@@ -52,7 +52,8 @@ body{
 
 #logoPosition{
     position: absolute;
-    top: 35vh;   
+    top: 35vh; 
+    left: 40vh;  
 }
 
 #logo{
