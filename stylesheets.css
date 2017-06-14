@@ -66,6 +66,7 @@ body{
     height: 300px;
     float:left;
     width:100%;
+    padding-top:10px;
 }
  img{
      width:100%;
