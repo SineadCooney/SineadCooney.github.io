@@ -64,7 +64,7 @@ body{
 }
 
 #gallery{
-    object-fit: scale-down;
+    object-fit: cover;
     height: 30vh;
     float:left;
     width:100%;
