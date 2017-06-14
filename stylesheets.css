@@ -59,11 +59,12 @@ body{
 
 #graphics{
     margin-top: 10vh;
+    margin-bottom: 5vh;
     text-align: center;
 }
 
 #gallery{
-    object-fit: cover;
+    object-fit: scale-down;
     height: 30vh;
     float:left;
     width:100%;
