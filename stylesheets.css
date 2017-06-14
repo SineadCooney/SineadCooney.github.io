@@ -63,10 +63,10 @@ h2{
 
 #gallery{
     object-fit: cover;
-    height: 200px;
+    height: 300px;
     float:left;
     width:100%;
-    border: thin 1px;
+    border:1px solid #ccc;
     border-color: gray;
 }
  img{
