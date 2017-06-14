@@ -57,9 +57,8 @@ body{
 
 #logo{
     width:100%;
-    float:left;
     z-index: 2;
-    height:15vh;
+    height:30vh;
     display:block;
 }
 
