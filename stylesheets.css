@@ -53,6 +53,7 @@ body{
 #logoPosition{
     position: absolute;
     top: 35vh; 
+    text-align: center;
 }
 
 #logo{
@@ -61,7 +62,6 @@ body{
     height:30vh;
     display:block;
     object-fit: cover; 
-    margin-left: 35%;
 }
 
 #graphics{
