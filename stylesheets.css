@@ -1,18 +1,18 @@
 .container{
     margin: 0;
     padding: 0;
-    width:100%;
+    width:100vh;
     display: block;
 }
 
 #topMainImage{
-    width:100%;
+    width:100vh;
     height: 100vh;
-    background-color: #f9c48e;
+    background-color: lightpink;
 }
 
 #headerImage{
-    width:100%;
+    width:100vh;
     height:100vh;
     z-index: -1;
     opacity: 0.8;
