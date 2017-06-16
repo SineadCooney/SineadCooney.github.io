@@ -30,12 +30,6 @@ section#top div.col-sm-4 > a{
     margin-top: 75px;
 }
 
-#navGraphics{
-    position: absolute;
-    top:5vh;
-    font-size: 1em;
-}
-
 #logo{
     width:100%;
     z-index: 2;
