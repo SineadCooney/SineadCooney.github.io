@@ -19,7 +19,15 @@
 }
 
 section#top{
-    background-image: url('/images/FlatDesign_Tester_v002.png');
+    text-align: center;
+}
+
+section#top div.col-sm-4{
+    min-block-size: 205px;
+}
+
+section#top div.col-sm-4 > a{
+    margin-top: 75px;
 }
 
 #navGraphics{
