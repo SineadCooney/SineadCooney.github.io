@@ -18,6 +18,10 @@
     opacity: 0.8;
 }
 
+div.container{
+    background-image: url('/images/FlatDesign_Tester_v002.png');
+}
+
 #navGraphics{
     position: absolute;
     top:5vh;
