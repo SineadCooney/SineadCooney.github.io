@@ -20,7 +20,9 @@
 
 div.col-sm-2 > a{
     text-align: center;
-    
+    font-size: 5em;
+    position: fixed;
+    height: 5vh;
 }
 
 #logo{
