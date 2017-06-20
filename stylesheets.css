@@ -23,6 +23,7 @@ div.col-sm-2 > a{
     font-size: 5em;
     position: fixed;
     height: 5vh;
+    z-index: 1;
 }
 
 #logo{
