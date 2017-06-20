@@ -18,16 +18,9 @@
     opacity: 0.8;
 }
 
-section#top{
+div.col-sm-2 > a{
     text-align: center;
-}
-
-section#top div.col-sm-4{
-    min-block-size: 205px;
-}
-
-section#top div.col-sm-4 > a{
-    margin-top: 75px;
+    
 }
 
 #logo{
