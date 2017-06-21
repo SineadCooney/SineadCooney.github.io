@@ -20,9 +20,6 @@
 
 div.col-sm-2 > a{
     text-align: center;
-    font-size: 2em;
-    position: fixed;
-    height: 5vh;
     z-index: 2;
 }
 
