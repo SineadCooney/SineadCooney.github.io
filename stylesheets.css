@@ -25,7 +25,8 @@
     position: fixed;
     z-index: 1;
     top: 0;
-    margin-left: 0;
+    display: block;
+    object-fit: cover;
 }
 
 div.col-sm-2 > a{
