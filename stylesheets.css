@@ -24,6 +24,7 @@
     background-color: #fff4f4;
     position: fixed;
     z-index: 1;
+    top: 0;
 }
 
 div.col-sm-2 > a{
