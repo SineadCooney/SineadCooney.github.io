@@ -33,7 +33,7 @@ div.col-sm-2 > a{
     top: 0;
     position: fixed;
     text-decoration: none;
-    font-size: 2em;
+    font-size: 3vh;
 }
 
 a:link{
