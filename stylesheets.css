@@ -22,6 +22,8 @@
     width:100%;
     height: 7vh;
     background-color: #fff4f4;
+    position: fixed;
+    z-index: 1;
 }
 
 div.col-sm-2 > a{
