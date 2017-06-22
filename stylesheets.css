@@ -21,6 +21,7 @@
 div.col-sm-2 > a{
     text-align: center;
     z-index: 2;
+    top: 0;
 }
 
 #logo{
