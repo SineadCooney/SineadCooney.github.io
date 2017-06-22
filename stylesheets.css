@@ -18,10 +18,16 @@
     opacity: 0.8;
 }
 
+.navBar{
+    width:100%;
+    background-color: #fff4f4;
+}
+
 div.col-sm-2 > a{
     text-align: center;
     z-index: 2;
     top: 0;
+    position: fixed;
 }
 
 #logo{
