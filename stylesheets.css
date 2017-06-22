@@ -19,6 +19,7 @@
     opacity: 0.8;
     left: 0;
     position: absolute;
+    margin-bottom: 50vh;
 }
 
 .navBar{
@@ -70,7 +71,6 @@ h1{
 
 #gallery{
     object-fit: cover;
-    margin-top: 110vh;
     height: 30vh;
     float:left;
     width:100%;
