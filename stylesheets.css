@@ -81,7 +81,9 @@ h3{
 
 .aboutContact .col-sm-4{
     height:45vh;
-    border: 1px solid grey;
+    border: 1px solid lightgrey;
+    margin-right: 5%;
+
 }
 
 .aboutContact h1{
