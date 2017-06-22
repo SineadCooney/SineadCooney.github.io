@@ -52,7 +52,8 @@ a:visited{
     height:30vh;
     display:block;
     position: absolute;
-    top: 25vh; 
+    top: 0; 
+    left: 0;
     text-align: center;
 }
 
