@@ -67,6 +67,10 @@ div.col-sm-4 > h3{
     text-align: center;
 }
 
+dic.col-sm-4 > button{
+    text-align: center;
+}
+
 h1{
     margin-top: 10vh;
     margin-bottom: 5vh;
