@@ -70,6 +70,7 @@ h1{
 
 #gallery{
     object-fit: cover;
+    margin-top: 110vh;
     height: 30vh;
     float:left;
     width:100%;
