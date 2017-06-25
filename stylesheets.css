@@ -83,9 +83,9 @@ h1{
     text-align: center;
 }
 
-div.col-sm-8 > .container-fluid{
+div.col-sm-8 > #gallerySection{
     background-color: #f9f6e8;
-    width:100%;
+    width: 100%;
 }
 
 #gallery{
