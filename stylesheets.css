@@ -42,12 +42,8 @@ div.col-sm-2 > a{
     padding-top: 1vh;
 }
 
-a:link{
-    color: #122a33;
-}
-
-a:visited{
-    color: #122a33;
+.btn.btn-sm{
+    min-width: 115px;
 }
 
 #logo{
