@@ -30,7 +30,6 @@
     z-index: 50;
     top: 0;
     left: 0;
-    opacity:0.9;
 }
 
 div.col-sm-2 > a{
@@ -64,7 +63,7 @@ div.col-sm-4 > h3{
     text-align: center;
 }
 
-dic.col-sm-4 > button{
+dic.col-sm-4 > div > a{
     text-align: center;
     text-transform: uppercase;
 }
