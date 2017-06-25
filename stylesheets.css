@@ -63,7 +63,7 @@ div.col-sm-4 > h3{
     text-align: center;
 }
 
-div.col-sm-4 > div > a{
+div.col-sm-4 > div {
     text-align: center;
     text-transform: uppercase;
 }
