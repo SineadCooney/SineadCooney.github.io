@@ -69,6 +69,7 @@ div.col-sm-4 > h3{
 
 dic.col-sm-4 > button{
     text-align: center;
+    text-transform: uppercase;
 }
 
 h1{
