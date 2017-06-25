@@ -76,6 +76,12 @@ h1{
     color: #122a33;
 }
 
+#underline{
+    width:10vh;
+    height:1px;
+    background-color: rebeccapurple;
+}
+
 #gallery{
     object-fit: cover;
     height: 30vh;
