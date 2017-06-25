@@ -85,6 +85,7 @@ h1{
 
 div.col-sm-8 > .container-fluid{
     background-color: #f9f6e8;
+    width:100%;
 }
 
 #gallery{
