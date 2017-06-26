@@ -70,7 +70,7 @@ div.col-sm-4 > div {
     text-transform: uppercase;
 }
 
-h1{
+h1::after{
     margin-top: 10vh;
     margin-bottom: 5vh;
     text-align: center;
