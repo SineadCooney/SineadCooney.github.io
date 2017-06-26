@@ -8,10 +8,11 @@
 
 .topMainImage{
     width:100%;
-    height: 150vh;
+    height: 250vh;
     background-color: #f9f6e8;
     z-index: -3;
     position: absolute;
+    left: 0;
 }
 
 #headerImage{
@@ -141,6 +142,7 @@ h3{
     height:45vh;
     background-color: #f9f6e8;
     width: 100%;
+    left: 0;cs
 }
 
 .aboutContact h1{
