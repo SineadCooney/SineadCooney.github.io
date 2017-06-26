@@ -62,7 +62,7 @@ div.col-sm-2 > a{
     margin-top: 13vh;
 }
 
-div.col-sm-4 > HeaderDescription{
+#HeaderDescription{
     margin-top:30vh;
     text-align: center;
 }
@@ -93,7 +93,7 @@ h1{
     background-color: rebeccapurple;
 }
 
-div.col-sm-8#gallerySection{
+div.col-sm-8 > #gallerySection{
     background-color: #f9f6e8;
     width: 100%;
 }
