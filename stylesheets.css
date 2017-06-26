@@ -6,10 +6,10 @@
     position: relative;
 }
 
-#topMainImage{
+.topMainImage{
     width:100%;
-    height: 100vh;
-    background-color: lightpink;
+    height: 150vh;
+    background-color: #f9f6e8;
 }
 
 #headerImage{
@@ -77,9 +77,16 @@ h1{
     color: #122a33;
 }
 
+.galleryBackground{
+    width:100%;
+    height:80vh;
+    background-color: #f9f6e8;
+}
+
+
 #underline{
     width:10vh;
-    height:1px;
+    height:2px;
     background-color: rebeccapurple;
     text-align: center;
 }
