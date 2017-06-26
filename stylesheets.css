@@ -31,7 +31,7 @@
     top: 0;
     left: 0;
     opacity: 0.9;
-    
+
 }
 
 div.col-sm-2 > a{
@@ -54,9 +54,6 @@ div.col-sm-2 > a{
     height:30vh;
     display:block;
     position: absolute;
-    top: 0; 
-    left: 0;
-    text-align: center;
     margin-top: 13vh;
 }
 
