@@ -76,12 +76,8 @@ h1{
     text-align: center;
     font-size: 5vh;
     color: #122a33;
-}
-
-.underline{
-    width:10vh;
-    height:2px;
-    background-color: rebeccapurple;
+    border-bottom: 4px solid rebeccapurple;
+    width: 30px;
 }
 
 div.col-sm-8 > #gallerySection{
