@@ -87,11 +87,10 @@ h1{
 }
 
 
-#underline{
+.underline{
     width:10vh;
     height:2px;
     background-color: rebeccapurple;
-    text-align: center;
 }
 
 div.col-sm-8 > #gallerySection{
