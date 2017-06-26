@@ -62,7 +62,7 @@ div.col-sm-2 > a{
     margin-top: 13vh;
 }
 
-div.col-sm-4 > h3{
+div.col-sm-4 > HeaderDescription{
     margin-top:30vh;
     text-align: center;
 }
