@@ -112,6 +112,10 @@ div.col-sm-8 > #gallerySection{
      padding: 0px;
  }
 
+ .webDesignSection > h1{
+     margin-top: 0;
+ }
+
  #webLeft{
      background-color: gray;
      width: 100%;
